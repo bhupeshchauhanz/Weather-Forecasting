@@ -28,7 +28,7 @@ Follow these steps to set up and run the project locally:
 - Open the `assets/js/api.js` file in the project.
 - Replace the placeholder text in the following line with your API key:
   ```javascript
-  const api_key = "Enter The API KEY of OpenWeatherMap";
+  const api_key = "API KEY";
   ```
 
 ### Step 4: Run the Project
@@ -37,9 +37,6 @@ Follow these steps to set up and run the project locally:
 
 ## Contributing
 Feel free to contribute to this project by opening a pull request. Whether it's a bug fix, new feature, or UI improvement, your contributions are welcome.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Feedback
 If you have any feedback or suggestions, please open an issue or contact me directly.
