@@ -1,6 +1,7 @@
 'use strict';
 
-const api_key = "Enter The API KEY of OpenWeatherMap";
+const api_key = "56ed3783db3670e2f55ed152bb5c2a94";
+
 /**
 * @param {string} URL API url
 * @param {Function} callback callback
