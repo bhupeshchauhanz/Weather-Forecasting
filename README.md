@@ -16,7 +16,7 @@ Follow these steps to set up and run the project locally:
 ### Step 1: Download the Project
 - Clone this repository using:
   ```bash
-  git clone https://github.com/your-repository-link.git
+  git clone https://github.com/bhupeshchauhanz/Weather-Forecasting.git
   ```
   Or download the ZIP file from the repository and extract it.
 
